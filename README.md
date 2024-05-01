@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @FantasticBee
+- 👀 I’m interested in Front End for now. I am planning to start the SheCodes bootcamp in the next 2 months.
+- I have tried to learn on my own,and that has been very tough for me. So here I am getting my feet wet.
+- 🌱 I’m currently learning ... HTML, CSS and VS Code. I am trying to learn on my own until starting the bootcamp.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+FantasticBee/FantasticBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
